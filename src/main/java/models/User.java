@@ -3,7 +3,7 @@ package models;
 public class User {
 
     public String login = "user";
-    public String password = "1234";
+    public String password = "4321";
 
     public String name = "Bob";
     public int age = 30;
